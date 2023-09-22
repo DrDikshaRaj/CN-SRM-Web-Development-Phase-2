@@ -1,0 +1,100 @@
+#navbar{
+    display: flex;
+    padding-left: 40px;
+
+}
+#navbar ul{
+    display: flex;
+    align-items: center;
+    width: 1200px;
+    height: 34px;
+    top: 42px;
+    left: 520px;
+
+
+}
+#navbar ul li{
+    list-style: none;
+    font-size: 16px;
+}
+#navbar ul li a{
+    display: block;
+    padding: 5px 30px;
+    right: 300px;
+}
+.image1{
+    width: 50%;
+}
+.text{
+    width: 50%;
+    /* padding-bottom: 50%; */
+}
+.image2{
+    width: 40%;
+}
+.text1{
+    width: 40%;
+}
+.mainpart{
+    display: flex;
+    padding-left: 40px;
+}
+.main {
+    display: flex;
+    padding-left: 40px;
+}
+#body{
+    align-items: center;
+    margin-bottom: 50%;
+    padding-bottom: 50%;
+}
+.foot{
+    display: flex;
+    padding-left: 40px;
+}
+.studio{
+    width: 25%;
+}
+.work{
+    width: 25%;
+}
+.company{
+    width: 25%;
+}
+.support{
+    width: 25%;
+}
+.contact{
+    width: 25%;
+}
+
+.logo{
+    display: flex;
+    padding-left: 40px;
+}
+.fb{
+    width: 4%;
+}
+.twitter{
+    width: 4%;
+}
+.linkedin{
+    width: 4%;
+}
+.line{
+    color: grey;
+}
+.image2{
+    padding-left: 40px;
+}
+.copywright{
+    padding-left: 50%;
+    width: 50%;
+}
+
+.review {
+    
+    text-align: center;
+    padding-bottom: 25px;
+
+}
